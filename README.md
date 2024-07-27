@@ -1,3 +1,3 @@
 ````
-pkg install wget -y ; wget https://raw.githubusercontent.com/bjendaik/termuxnavite/main/install.sh ; chmod +x install.sh ; ./install.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/bjendaik/termuxnavite/main/setup.sh ; chmod +x setup.sh ; ./setup.sh
 ````
